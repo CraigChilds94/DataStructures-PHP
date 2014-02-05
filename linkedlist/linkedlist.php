@@ -1,5 +1,10 @@
 <?php
 
+/**
+ *	PHP implementation of the linked list data structure
+ *	Craig Childs 2014
+ */
+
 class Node {
 
 	private $next, $prev;
